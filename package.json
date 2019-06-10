@@ -1,0 +1,22 @@
+{
+  "name": "video_maker",
+  "version": "1.0.0",
+  "description": "Robôs que criam videos para o youtube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luanftg/Video_maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luanftg/Video_maker/issues"
+  },
+  "homepage": "https://github.com/Luanftg/Video_maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
