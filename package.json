@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Luanftg/Video_maker/issues"
   },
-  "homepage": "https://github.com/Luanftg/Video_maker#readme"
+  "homepage": "https://github.com/Luanftg/Video_maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
